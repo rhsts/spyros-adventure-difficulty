@@ -1,0 +1,9 @@
+__pycache__/
+# the game's own files are not ours to share
+sys/
+files.txt
+# per-user and generated files
+settings.json
+gui.png
+*.npy
+*.npz

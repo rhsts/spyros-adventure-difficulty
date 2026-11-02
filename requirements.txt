@@ -1,0 +1,2 @@
+numpy
+capstone  # only for make_gecko.py and ppcdis.py
